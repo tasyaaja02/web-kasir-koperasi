@@ -1,5 +1,6 @@
 RENCANA WEB KASIR
 -membuat menu utama
+
 Visi:
 Menjadi koperasi makanan yang unggul dalam menyediakan produk pangan berkualitas, aman, dan bergizi, serta berkontribusi terhadap kesejahteraan anggota dan masyarakat luas.
 Misi:
@@ -8,6 +9,12 @@ Misi:
 3. Mengutamakan prinsip-prinsip koperasi dalam setiap kegiatan operasional.
 4. Menjalin kerjasama yang baik dengan berbagai pihak untuk memperluas pasar dan sumber daya.
 5. Mendorong peningkatan keterampilan dan pengetahuan anggota dalam bidang produksi dan distribusi makanan.
+
+Profil Koperasi Makanan Sejahtera:
+Nama Koperasi: Koperasi Makanan Sejahtera
+Jenis Koperasi: Koperasi Konsumen
+Tahun Berdiri: 2010
+Alamat: Jl. Raya Makanan No. 123, Kota Sejahtera, Indonesia
 -membuat menu login 
 -membuat menu sign-up
 -membuat daftar harga barang
